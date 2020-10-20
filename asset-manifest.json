@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/redux-thunk-hook/static/css/main.5f361e03.chunk.css",
+    "main.js": "/redux-thunk-hook/static/js/main.b82c291d.chunk.js",
+    "main.js.map": "/redux-thunk-hook/static/js/main.b82c291d.chunk.js.map",
+    "runtime-main.js": "/redux-thunk-hook/static/js/runtime-main.5c90dd33.js",
+    "runtime-main.js.map": "/redux-thunk-hook/static/js/runtime-main.5c90dd33.js.map",
+    "static/js/2.a6a4f9c3.chunk.js": "/redux-thunk-hook/static/js/2.a6a4f9c3.chunk.js",
+    "static/js/2.a6a4f9c3.chunk.js.map": "/redux-thunk-hook/static/js/2.a6a4f9c3.chunk.js.map",
+    "index.html": "/redux-thunk-hook/index.html",
+    "precache-manifest.242df5e4df88275a60f164a856fbb9e0.js": "/redux-thunk-hook/precache-manifest.242df5e4df88275a60f164a856fbb9e0.js",
+    "service-worker.js": "/redux-thunk-hook/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/redux-thunk-hook/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a6a4f9c3.chunk.js.LICENSE.txt": "/redux-thunk-hook/static/js/2.a6a4f9c3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/redux-thunk-hook/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5c90dd33.js",
+    "static/js/2.a6a4f9c3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.b82c291d.chunk.js"
+  ]
+}
